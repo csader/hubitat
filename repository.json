@@ -1,0 +1,15 @@
+{
+  "author": "Chris Sader",
+  "gitHubUrl": "https://github.com/csader/hubitat-packagerepositories",
+  "payPalUrl": "paypal.me/csader"
+  "packages": [
+		{
+			"name": "Auto Lock Door",
+			"tag": "Locks",
+			"location": "https://raw.githubusercontent.com/csader/hubitat-packagerepositories/master/packageManifest.json",
+			"description": "Automatically locks a specific door after X minutes when closed and unlocks it when open after X seconds."
+		}
+	]
+
+}
+}
