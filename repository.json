@@ -4,7 +4,8 @@
 	"payPalUrl": "https://www.paypal.me/csader",
 	"packages": [{
 		"name": "Auto Lock Door",
-		"category": "Locks",
+		"category": "Security",
+		"tags": [ "Locks", "Safety & Security" ],
 		"location": "https://raw.githubusercontent.com/csader/AutoLockDoor/master/packageManifest.json",
 		"description": "Automatically locks a specific door after X minutes when closed and unlocks it when open after X seconds."
 	}]
